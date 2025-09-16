@@ -40,7 +40,7 @@
             // 
             // tbEsaldia
             // 
-            tbEsaldia.Location = new Point(203, 38);
+            tbEsaldia.Location = new Point(193, 48);
             tbEsaldia.Multiline = true;
             tbEsaldia.Name = "tbEsaldia";
             tbEsaldia.Size = new Size(395, 102);
@@ -58,7 +58,7 @@
             // 
             // btnEsaldi2
             // 
-            btnEsaldi2.Location = new Point(328, 182);
+            btnEsaldi2.Location = new Point(348, 182);
             btnEsaldi2.Name = "btnEsaldi2";
             btnEsaldi2.Size = new Size(94, 29);
             btnEsaldi2.TabIndex = 2;
@@ -68,7 +68,7 @@
             // 
             // btnEsaldi3
             // 
-            btnEsaldi3.Location = new Point(580, 182);
+            btnEsaldi3.Location = new Point(591, 182);
             btnEsaldi3.Name = "btnEsaldi3";
             btnEsaldi3.Size = new Size(94, 29);
             btnEsaldi3.TabIndex = 3;
@@ -88,7 +88,7 @@
             // 
             // btnEsaldi5
             // 
-            btnEsaldi5.Location = new Point(328, 279);
+            btnEsaldi5.Location = new Point(348, 279);
             btnEsaldi5.Name = "btnEsaldi5";
             btnEsaldi5.Size = new Size(94, 29);
             btnEsaldi5.TabIndex = 5;
@@ -98,7 +98,7 @@
             // 
             // btnLotu
             // 
-            btnLotu.Location = new Point(580, 279);
+            btnLotu.Location = new Point(591, 279);
             btnLotu.Name = "btnLotu";
             btnLotu.Size = new Size(94, 29);
             btnLotu.TabIndex = 6;
@@ -108,9 +108,9 @@
             // 
             // btnGarbitu
             // 
-            btnGarbitu.Location = new Point(328, 373);
+            btnGarbitu.Location = new Point(98, 373);
             btnGarbitu.Name = "btnGarbitu";
-            btnGarbitu.Size = new Size(94, 29);
+            btnGarbitu.Size = new Size(587, 29);
             btnGarbitu.TabIndex = 7;
             btnGarbitu.Text = "Garbitu";
             btnGarbitu.UseVisualStyleBackColor = true;
