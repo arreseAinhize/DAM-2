@@ -92,6 +92,7 @@ namespace Ariketa_1
             btnEsaldi5.Enabled = false;
             btnGarbitu.Enabled = false;
             btnLotu.Enabled = false;
+            esaldia = new Esaldia(); //Objektua berrezarri
         }
 
         /* BIZITZA KOMPLIKETIE DA
