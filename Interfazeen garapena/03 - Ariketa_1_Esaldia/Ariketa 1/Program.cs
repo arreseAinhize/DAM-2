@@ -16,29 +16,25 @@ namespace Ariketa_1
     }
 
     public class Esaldia {
-        
-        public string hitza { get; set; }
-        
-        /*public string EsaldiaBatuta{ 
-            get
-            {
-                return this.hitza + " "; 
+
+        public string esaldiaBatuta;
+        public string hitza { get; set; }         
+        public string EsaldiaBatuta { get { return this.esaldiaBatuta; } }
+        public void SetEsaldiaBatuta(string hitza){
+            this.esaldiaBatuta = this.esaldiaBatuta + " " + hitza; //<-- this. ez dau falta eitten ez dauelako izen berdiï¿½ekorik.
+        }       
+        /* BIZITZA ALFERRIK KOMPLIKETIE DA
+            public string EsaldiaBatuta{ 
+                get
+                {
+                    return this.hitza + " "; 
+                }
             }
-        }*/
-        
-        /*public Esaldia(string testua)
-        {
-            this.hitza = testua;
-        }*/
-
-         
-         public string esaldiaBatuta = "";
-         public string EsaldiaBatuta { get { return this.hitza + " "; } }
-         public void SetEsaldiaBatuta(string hitza){
-            this.esaldiaBatuta = this.esaldiaBatuta + " " + hitza; //<-- this. ez dau falta eitten ez dauelako izen berdiñekorik.
-         }
-         
-
+            public Esaldia(string testua)
+            {
+                this.hitza = testua;
+            }
+        */
 
     }
 
