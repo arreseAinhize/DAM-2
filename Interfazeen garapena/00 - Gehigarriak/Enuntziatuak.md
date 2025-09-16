@@ -76,3 +76,31 @@
 
 &nbsp;- Metodo bat: AddNota(double n) → nota listan gehitzen du.
 
+**Ariketa 4**: *Sortu hirien aplikazioa.*
+
+&nbsp;- Hasieran “Hiria1” botoia bakarrik aktibatuta dago.
+
+&nbsp;- Testu kutxan lehenengo hiriaren izena idatzi eta Hiria1 botoia sakatzean → hau desaktibatuta geratzen da eta Hiria2 aktibatuta.
+
+&nbsp;- Horrela jarraitzen da Hiria3–Hiria5 arte.
+
+&nbsp;- Bostgarren botoia sakatu ondoren, “Lotu” eta “Garbitu” botoiak aktibatzen dira.
+
+&nbsp;- Lotu botoia sakatzean, 5 hiriak erakusten dira MessageBox batean, bakoitza lerro berrian.
+```Adibidea:
+Bilbao  
+Donostia  
+Gasteiz  
+Iruña  
+Baiona
+```  
+
+&nbsp;- Garbitu botoia sakatzean, aplikazioa berriro hasierako egoerara bueltatzen da eta fokoa testu kutxan jartzen da.
+
+**👉 Klasea: Hiria**
+
+&nbsp;- Barnean lista pribatu bat edukiko du hirien izenak gordetzeko.
+
+&nbsp;- Propietate bat soilik irakurtzeko: Guztiak (hiri guztiak string batean itzultzen ditu, \n bidez bereizita).
+
+&nbsp;- Metodo bat: AddHiria(string izena) → hiria listan gehitzen du.
