@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ariketa 1")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Kalkulagailua")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22b51f097289adb9da3ca7cfa792269de8c4a83d")]
-[assembly: System.Reflection.AssemblyProductAttribute("Ariketa 1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Ariketa 1")]
+[assembly: System.Reflection.AssemblyProductAttribute("Kalkulagailua")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Kalkulagailua")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
