@@ -21,7 +21,7 @@ namespace Ariketa_1
         public string hitza { get; set; }         
         public string EsaldiaBatuta { get { return this.esaldiaBatuta; } }
         public void SetEsaldiaBatuta(string hitza){
-            this.esaldiaBatuta = this.esaldiaBatuta + " " + hitza; //<-- this. ez dau falta eitten ez dauelako izen berdi�ekorik.
+            this.esaldiaBatuta = this.esaldiaBatuta + " " + hitza; //<-- this. ez dau falta eitten ez dauelako izen berdinekorik.
         }       
         /* BIZITZA ALFERRIK KOMPLIKETIE DA
             public string EsaldiaBatuta{ 
