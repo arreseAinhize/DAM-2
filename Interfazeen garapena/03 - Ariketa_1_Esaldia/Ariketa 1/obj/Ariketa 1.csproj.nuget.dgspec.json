@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ainhi\\Documents\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\Ariketa 1.csproj": {}
+    "D:\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\Ariketa 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ainhi\\Documents\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\Ariketa 1.csproj": {
+    "D:\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\Ariketa 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ainhi\\Documents\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\Ariketa 1.csproj",
+        "projectUniqueName": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\Ariketa 1.csproj",
         "projectName": "Ariketa 1",
-        "projectPath": "C:\\Users\\ainhi\\Documents\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\Ariketa 1.csproj",
+        "projectPath": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\Ariketa 1.csproj",
         "packagesPath": "C:\\Users\\ainhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ainhi\\Documents\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\obj\\",
+        "outputPath": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\03 - Ariketa_1_Esaldia\\Ariketa 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
