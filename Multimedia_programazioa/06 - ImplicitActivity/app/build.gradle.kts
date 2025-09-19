@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "eus.arreseainhize.seconactivityv2"
+    namespace = "eus.ainhizearrese.implicitactivity"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "eus.arreseainhize.seconactivityv2"
+        applicationId = "eus.ainhizearrese.implicitactivity"
         minSdk = 30
         targetSdk = 36
         versionCode = 1
@@ -29,7 +29,9 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
-
+    buildFeatures{
+        viewBinding=true
+    }
 }
 
 dependencies {
