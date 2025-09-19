@@ -48,18 +48,8 @@ namespace Ariketa_2
                     tbZenbakiak.Clear();
                     count++;
                     lbZenbakiak.Text = "Emaitza: ";
-                    zenbakiak[0].SetEmaitza(
-                        zenbakiak[0].sartutakoZenbakia,
-                        zenbakiak[1].sartutakoZenbakia,
-                        zenbakiak[2].sartutakoZenbakia,
-                        zenbakiak[3].sartutakoZenbakia
-                    );
-                    tbZenbakiak.Text = (zenbakiak[0].GetEmaitzaString(
-                        zenbakiak[0].sartutakoZenbakia,
-                        zenbakiak[1].sartutakoZenbakia,
-                        zenbakiak[2].sartutakoZenbakia,
-                        zenbakiak[3].sartutakoZenbakia
-                    ));
+                    zenbakiak[0].SetEmaitza(zenbakiak);
+                    tbZenbakiak.Text = (zenbakiak[0].GetEmaitzaString(zenbakiak));
                     btnHurrengoa.Enabled = false;
                     count = 0;
                     break;

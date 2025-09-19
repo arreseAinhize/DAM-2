@@ -20,20 +20,18 @@ namespace Ariketa_2
     {
         public float emaitza;
         public string emaitzaString;
-        public float BukaerakoEmaitza { get { return this.emaitza; } }
-
         public float sartutakoZenbakia { get; set; }
 
         public Zenbakia(float sartutakoZenbakia) {
             this.sartutakoZenbakia = sartutakoZenbakia;
         }
-        public void SetEmaitza(float z1, float z2, float z3, float z4)
+        public void SetEmaitza(Zenbakia[] zenbakiak)
         {
-            emaitza = (z1 + (2 * z2) + (3 * z3) + (4 * z4)) / 4;
+            emaitza = (zenbakiak[0].sartutakoZenbakia + (2 * zenbakiak[1].sartutakoZenbakia) + (3 * zenbakiak[2].sartutakoZenbakia) + (4 * zenbakiak[3].sartutakoZenbakia)) / 4;
         }
-        public string GetEmaitzaString(float z1, float z2, float z3, float z4)
+        public string GetEmaitzaString(Zenbakia[] zenbakiak)
         {
-            emaitzaString = $"( {z1} + ({z2} * 2 ) + ({z3} * 3) + ({z4} * 4) ) / 4 = " + emaitza.ToString("0.00");
+            emaitzaString = $"( {zenbakiak[0].sartutakoZenbakia} + ({zenbakiak[1].sartutakoZenbakia} * 2 ) + ({zenbakiak[2].sartutakoZenbakia} * 3) + ({zenbakiak[3].sartutakoZenbakia} * 4) ) / 4 = " + emaitza.ToString("0.00");
             // Berdiña beste era batera: emaitzaString = $"( {z1} + (2 * {z2}) + (3 * {z3}) + (4 * {z4})) / 4 = {emaitza:0.00}";
             return emaitzaString;
         }
