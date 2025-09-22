@@ -18,6 +18,7 @@ namespace Ariketa_2_Formula
                     count++;
                     lbZenbakiak.Text = "2. Zenbakia: ";
                     break;
+
                 case 1:
                     zenbakiak.Add(new Zenbakia(float.Parse(tbZenbakiak.Text)));
                     tbZenbakiak.Clear();
@@ -31,6 +32,7 @@ namespace Ariketa_2_Formula
                     count++;
                     lbZenbakiak.Text = "4. Zenbakia: ";
                     break;
+
                 case 3:
                     zenbakiak.Add(new Zenbakia(float.Parse(tbZenbakiak.Text)));
                     tbZenbakiak.Clear();
