@@ -160,7 +160,7 @@ public class MainActivity extends AppCompatActivity {
                         // Insertar ImageView justo debajo del divisor
                         binding.containerLayout.addView(imageView, index);
 
-                        Log.i("appInfoBtn", "Foto gehitu da LinearLayout-en Uri erabiliz");
+                        Log.i("appInfoBtn", "Argazkia gehitu da LinearLayout-en");
                     }
                 });
 
