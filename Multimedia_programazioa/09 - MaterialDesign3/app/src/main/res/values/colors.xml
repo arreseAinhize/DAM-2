@@ -6,4 +6,7 @@
     <color name="md_theme_primary">#08364E</color>
     <color name="md_theme_onPrimary">#6FCBF4</color>
     <color name="md_theme_secondary">#2E4854</color>
+
+    <color name="custom_primary">#26852A</color>
+    <color name="custom_secondary">#67A41F</color>
 </resources>

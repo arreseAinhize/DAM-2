@@ -9,10 +9,14 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import com.google.android.material.appbar.MaterialToolbar;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.button.MaterialButton;
+import com.google.android.material.chip.Chip;
+import com.google.android.material.chip.ChipGroup;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
+import com.google.android.material.textfield.TextInputEditText;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -45,6 +49,41 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this, "Profile selected", Toast.LENGTH_SHORT).show();
             }
             return true;
+        });
+
+        TextInputEditText etName = findViewById(R.id.etName);
+        btnStart.setOnClickListener(v -> {
+            String name = etName.getText().toString();
+            if(name.isEmpty()){
+                etName.setError("Name cannot be empty");
+            } else {
+                Toast.makeText(this, "Hello " + name + "!", Toast.LENGTH_SHORT).show();
+            }
+        });
+        ChipGroup chipGroup = findViewById(R.id.chipGroup);
+        String[] options = {"Option 1", "Option 2", "Option 3"};
+        for(String option : options){
+            Chip chip = new Chip(this);
+            chip.setText(option);
+            chip.setCheckable(true);
+            chipGroup.addView(chip);
+        }
+        chipGroup.setOnCheckedStateChangeListener((group, checkedIds) -> {
+            if (!checkedIds.isEmpty()) {
+                Chip selectedChip = group.findViewById(checkedIds.get(0));
+                if(selectedChip != null){
+                    Toast.makeText(this, selectedChip.getText() + " seleccionado", Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
+
+        MaterialToolbar topAppBar = findViewById(R.id.topAppBar);
+        topAppBar.setOnMenuItemClickListener(item -> {
+            if(item.getItemId() == R.id.action_settings){
+                Toast.makeText(this, "Settings clicked", Toast.LENGTH_SHORT).show();
+                return true;
+            }
+            return false;
         });
     }
 }
