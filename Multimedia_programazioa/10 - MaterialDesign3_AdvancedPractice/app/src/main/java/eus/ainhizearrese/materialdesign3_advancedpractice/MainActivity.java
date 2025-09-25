@@ -1,6 +1,7 @@
 package eus.ainhizearrese.materialdesign3_advancedpractice;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
@@ -24,7 +25,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
+            v.setPadding(systemBars.left, systemBars.top, systemBars.right, 0);
+            Log.i("infoPadding", "Left: " + String.valueOf(systemBars.left));
+            Log.i("infoPadding", "Right: " + String.valueOf(systemBars.right));
+            Log.i("infoPadding", "Top: " + String.valueOf(systemBars.top));
+            Log.i("infoPadding", "Bottom: " + String.valueOf(systemBars.bottom));
             return insets;
         });
 
