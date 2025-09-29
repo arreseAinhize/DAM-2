@@ -9,6 +9,6 @@ namespace AginteKoadroa_PG.Models
         public DateTime Data { get; set; }
         public decimal Zenbatekoa { get; set; }
         public string BezeroaId { get; set; }
-        public virtual Bezeroa Bezeroa { get; set; }
+        public virtual Bezeroa Bezeroa { get; set; } //
     }
 }
