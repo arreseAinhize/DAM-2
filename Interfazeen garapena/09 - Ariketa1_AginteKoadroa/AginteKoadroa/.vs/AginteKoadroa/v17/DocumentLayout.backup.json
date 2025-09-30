@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|d:\\github\\dam-2\\interfazeen garapena\\09 - ariketa1_agintekoadroa\\agintekoadroa\\agintekoadroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|d:\\github\\dam-2\\interfazeen garapena\\09 - ariketa1_agintekoadroa\\agintekoadroa\\agintekoadroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\models\\salmentadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\models\\salmentadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\models\\saltzailea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\models\\saltzailea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\models\\salmenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\agintekoadroa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{793D4C7D-5D80-464B-86E3-DAA6F95E1798}|AginteKoadroa\\AginteKoadroa.csproj|solutionrelative:agintekoadroa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Form1.cs",
-              "RelativeDocumentMoniker": "AginteKoadroa\\Form1.cs",
-              "ToolTip": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Form1.cs",
-              "RelativeToolTip": "AginteKoadroa\\Form1.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T10:18:37.153Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SalmentaDbContext.cs",
-              "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Models\\SalmentaDbContext.cs",
-              "RelativeDocumentMoniker": "AginteKoadroa\\Models\\SalmentaDbContext.cs",
-              "ToolTip": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Models\\SalmentaDbContext.cs",
-              "RelativeToolTip": "AginteKoadroa\\Models\\SalmentaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:49:43.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Saltzailea.cs",
               "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Models\\Saltzailea.cs",
               "RelativeDocumentMoniker": "AginteKoadroa\\Models\\Saltzailea.cs",
@@ -84,24 +54,38 @@
               "RelativeToolTip": "AginteKoadroa\\Models\\Saltzailea.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:51:24.426Z"
+              "WhenOpened": "2025-09-25T17:51:24.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\packages.config",
-              "RelativeDocumentMoniker": "AginteKoadroa\\packages.config",
-              "ToolTip": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\packages.config",
-              "RelativeToolTip": "AginteKoadroa\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-25T17:53:04.624Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Program.cs",
+              "RelativeDocumentMoniker": "AginteKoadroa\\Program.cs",
+              "ToolTip": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Program.cs",
+              "RelativeToolTip": "AginteKoadroa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:53:06.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Form1.cs",
+              "RelativeDocumentMoniker": "AginteKoadroa\\Form1.cs",
+              "ToolTip": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Form1.cs",
+              "RelativeToolTip": "AginteKoadroa\\Form1.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:18:37.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Form1.cs",
               "RelativeDocumentMoniker": "AginteKoadroa\\Form1.cs",
@@ -113,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Bezeroa.cs",
               "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Models\\Bezeroa.cs",
               "RelativeDocumentMoniker": "AginteKoadroa\\Models\\Bezeroa.cs",
@@ -125,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Salmenta.cs",
               "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Models\\Salmenta.cs",
               "RelativeDocumentMoniker": "AginteKoadroa\\Models\\Salmenta.cs",
@@ -137,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "App.config",
               "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\App.config",
               "RelativeDocumentMoniker": "AginteKoadroa\\App.config",
@@ -147,18 +131,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-09-25T17:45:46.71Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Program.cs",
-              "RelativeDocumentMoniker": "AginteKoadroa\\Program.cs",
-              "ToolTip": "D:\\GitHub\\DAM-2\\Interfazeen garapena\\09 - Ariketa1_AginteKoadroa\\AginteKoadroa\\AginteKoadroa\\Program.cs",
-              "RelativeToolTip": "AginteKoadroa\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:53:06.045Z"
             }
           ]
         }

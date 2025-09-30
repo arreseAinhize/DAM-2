@@ -52,6 +52,7 @@
             this.btnExit = new System.Windows.Forms.Button();
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.chart2 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -249,6 +250,9 @@
             chartArea1.BackColor = System.Drawing.Color.DimGray;
             chartArea1.Name = "ChartArea1";
             this.chart1.ChartAreas.Add(chartArea1);
+            this.helpProvider1.SetHelpKeyword(this.chart1, "?");
+            this.helpProvider1.SetHelpString(this.chart1, "Saltzaile bakoitzak (Y ardatza) dituen bezeroak (X ardatza)");
+            legend1.Enabled = false;
             legend1.Name = "Legend1";
             this.chart1.Legends.Add(legend1);
             this.chart1.Location = new System.Drawing.Point(31, 277);
@@ -263,6 +267,7 @@
             series1.Name = "Series1";
             series1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.BrightPastel;
             this.chart1.Series.Add(series1);
+            this.helpProvider1.SetShowHelp(this.chart1, true);
             this.chart1.Size = new System.Drawing.Size(499, 347);
             this.chart1.TabIndex = 7;
             this.chart1.Text = "chart1";
@@ -313,6 +318,7 @@
             // 
             // Form1
             // 
+            this.AcceptButton = this.btnExit;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
@@ -325,8 +331,13 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.HelpButton = true;
+            this.helpProvider1.SetHelpString(this, "Saltzaile bakoitzak (Y ardatza) dituen bezeroak (X ardatza)");
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
+            this.helpProvider1.SetShowHelp(this, true);
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -364,6 +375,7 @@
         protected internal System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart2;
+        private System.Windows.Forms.HelpProvider helpProvider1;
     }
 }
 
